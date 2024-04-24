@@ -22,7 +22,7 @@ upload.py is an easy way to upload pdf or txt file, it is tkinter based GUI impl
 
 ### Youtube Tutorial Here
 
-Here link
+link: https://youtu.be/qNr8mDSQuTE
 
 ### What is RAG?
 
